@@ -1,0 +1,18 @@
+Dump of the queue with priorityFn2 (MINHEAP):
+(((((42:860958)34:205596)33:208446)12:445354((31:399742)17:981168))3:543713((51:904337)28:633661(54:717842)))
+
+Dump of the queue with priorityFn1 (MAXHEAP):
+((((130:860958)222:208446(125:633661))330:717842)485:981168((((165:399742)275:445354(17:543713))370:205596)483:904337))
+
+Preorder traversal of the nodes in the queue with priorityFn1 (MAXHEAP):
+Contents of the posts queue:
+[485] Post ID: 981168, number of likes: 484, interest level: 1, connection level: 1, post time: 16
+[330] Post ID: 717842, number of likes: 320, interest level: 10, connection level: 4, post time: 50
+[222] Post ID: 208446, number of likes: 221, interest level: 1, connection level: 3, post time: 30
+[130] Post ID: 860958, number of likes: 125, interest level: 5, connection level: 5, post time: 37
+[125] Post ID: 633661, number of likes: 123, interest level: 2, connection level: 2, post time: 26
+[483] Post ID: 904337, number of likes: 473, interest level: 10, connection level: 2, post time: 49
+[370] Post ID: 205596, number of likes: 369, interest level: 1, connection level: 5, post time: 29
+[275] Post ID: 445354, number of likes: 265, interest level: 10, connection level: 2, post time: 10
+[165] Post ID: 399742, number of likes: 156, interest level: 9, connection level: 1, post time: 30
+[17] Post ID: 543713, number of likes: 15, interest level: 2, connection level: 2, post time: 1
